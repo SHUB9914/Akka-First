@@ -19,12 +19,16 @@ object BookMyShow extends App {
   val bookingActorRef = system.actorOf(Props[BookingActor])
   val userRef1 = system.actorOf(FromConfig.props(Props(new UserActor(bookingActorRef))),"poolRouter")
 
-// start 5 child of actor that request for same seat
+/*start 5 child of actor that request for same seat
+* THERE IS 4 SEATS ----- A,B,C,D
+*
+* */
+
   userRef1 ! "A"
   userRef1 ! "A"
   userRef1 ! "A"
   userRef1 ! "A"
-  userRef1 ! "A"
+  userRef1 ! "B"
 
 
 }
