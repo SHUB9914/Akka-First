@@ -10,8 +10,6 @@ import scala.io.Source
 
 class LineProcess extends Actor{
 
-  var totalLines = 0
-  var processedLine =0
   var totalWords = 0
 
   override def receive ={
@@ -19,7 +17,6 @@ class LineProcess extends Actor{
     case file:String => Source.fromFile(file).getLines.foreach{
 
       line=>  context.actorOf(Props[WordCount]) ! line
-
     }
 
     case Processed(words) => totalWords+=words
