@@ -13,7 +13,7 @@ object  FileHandling  extends  App{
 
   val system = ActorSystem("FileSystem")
   val ref = system.actorOf(Props[LineProcess])
-  val path = "/home/knoldus/Documents/Doc/abc.txt"
+  val path = "./src/main/resources/abc.txt"
 
   ref ! path
 
