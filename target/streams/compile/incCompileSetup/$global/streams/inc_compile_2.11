@@ -1,0 +1,315 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/shubham/Videos/Akka-First-master/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+15 items
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> /home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/FileHandling$.class
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> /home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/FileHandling$delayedInit$body.class
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> /home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/FileHandling.class
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> /home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/PrintResult$.class
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> /home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/PrintResult.class
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> /home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/Processed$.class
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> /home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/Processed.class
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> /home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/result$.class
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> /home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/result.class
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> /home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/LineProcess$$anonfun$receive$1.class
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> /home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/LineProcess.class
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> /home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/WordCount$$anonfun$receive$1$$anonfun$1.class
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> /home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/WordCount$$anonfun$receive$1$$anonfun$2.class
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> /home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/WordCount$$anonfun$receive$1.class
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> /home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/WordCount.class
+binary dependencies:
+9 items
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> /home/shubham/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.17.jar
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> /home/shubham/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> /home/shubham/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.17.jar
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> /home/shubham/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> /home/shubham/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.17.jar
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> /home/shubham/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> /home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> /home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> /home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+15 items
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> WordCount.FileHandling
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> WordCount.FileHandling$
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> WordCount.FileHandling$delayedInit$body
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> WordCount.PrintResult
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> WordCount.PrintResult$
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> WordCount.Processed
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> WordCount.Processed$
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> WordCount.result
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> WordCount.result$
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> WordCount.LineProcess
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> WordCount.LineProcess$$anonfun$receive$1
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> WordCount.WordCount
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> WordCount.WordCount$$anonfun$receive$1
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> WordCount.WordCount$$anonfun$receive$1$$anonfun$1
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> WordCount.WordCount$$anonfun$receive$1$$anonfun$2
+used names:
+175 items
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> !
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> &&
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> <init>
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> ==
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> A
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> AbstractFunction0
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> AbstractFunction1
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> Actor
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> ActorRef
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> ActorSystem
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> Any
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> AnyRef
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> App
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> Boolean
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> Class
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> ClassTag
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> DurationInt
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> ExecutionContext
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> FileHandling
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> Implicits
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> IndexOutOfBoundsException
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> Int
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> Iterator
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> LineProcess
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> None
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> Nothing
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> Object
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> Predef
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> PrintResult
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> Processed
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> Product
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> Props
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> ScalaActorRef
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> ScalaRunTime
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> Serializable
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> Some
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> Statics
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> String
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> T
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> T0
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> Timeout
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> Unit
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> WordCount
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> _$7
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> _hashCode
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> _toString
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> actor
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> actorOf
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> actorRef2Scala
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> akka
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> apply
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> asInstanceOf
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> ask
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> concurrent
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> duration
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> eq
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> finalizeHash
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> global
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> isInstanceOf
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> materializeClassTag
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> message
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> mix
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> package
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> pattern
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> qual$1
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> ref
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> result
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> runtime
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> scala
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> system
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> toString
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> typedProductIterator
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> util
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> words
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> x$1
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> x$2
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> ||
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> !
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> +
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> <init>
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> A1
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> AbstractPartialFunction
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> Actor
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> ActorRef
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> Any
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> B1
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> Boolean
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> Function1
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> Int
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> LineProcess
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> Nothing
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> Object
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> Predef
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> PrintResult
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> Processed
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> Props
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> ScalaActorRef
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> Source
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> String
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> T0
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> Unit
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> WordCount
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> actor
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> actorRef2Scala
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> akka
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> apply
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> asInstanceOf
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> io
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> isInstanceOf
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> message
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> msg
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> package
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> println
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> scala
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> self
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> sender
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> totalWords
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> totalWords_=
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> unchecked
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> words
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> !
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> !=
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> <init>
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> ==
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> A
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> A1
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> AbstractPartialFunction
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> Actor
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> ActorRef
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> Any
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> AnyRef
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> Array
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> ArrayOps
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> B
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> B1
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> Boolean
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> CanBuildFrom
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> Coll
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> FilterMonadic
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> Function1
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> Int
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> List
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> Nothing
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> Object
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> Predef
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> Processed
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> ScalaActorRef
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> String
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> T
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> T0
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> That
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> Unit
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> WordCount
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> actor
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> actorRef2Scala
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> akka
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> apply
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> asInstanceOf
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> canBuildFrom
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> i
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> immutable
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> isInstanceOf
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> length
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> map
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> package
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> refArrayOps
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> scala
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> self
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> sender
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> split
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> toList
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> totalwords
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> unchecked
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> withFilter
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> words
+product stamps:
+15 items
+/home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/FileHandling$.class -> lastModified(1501693410000)
+/home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/FileHandling$delayedInit$body.class -> lastModified(1501693410000)
+/home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/FileHandling.class -> lastModified(1501693410000)
+/home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/LineProcess$$anonfun$receive$1.class -> lastModified(1501693410000)
+/home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/LineProcess.class -> lastModified(1501693410000)
+/home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/PrintResult$.class -> lastModified(1501693410000)
+/home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/PrintResult.class -> lastModified(1501693410000)
+/home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/Processed$.class -> lastModified(1501693410000)
+/home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/Processed.class -> lastModified(1501693410000)
+/home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/WordCount$$anonfun$receive$1$$anonfun$1.class -> lastModified(1501693410000)
+/home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/WordCount$$anonfun$receive$1$$anonfun$2.class -> lastModified(1501693410000)
+/home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/WordCount$$anonfun$receive$1.class -> lastModified(1501693410000)
+/home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/WordCount.class -> lastModified(1501693410000)
+/home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/result$.class -> lastModified(1501693410000)
+/home/shubham/Videos/Akka-First-master/target/scala-2.11/classes/WordCount/result.class -> lastModified(1501693410000)
+source stamps:
+3 items
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> hash(efb4b1c5fe98a2975065d61d5c52d3484c10f6b9)
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> hash(b05914e62151ea673a6a610a9cc2592c5f6a0128)
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> hash(e2ba8ae6e9f133bc4adc78e53f8ee1740a4be1ec)
+binary stamps:
+3 items
+/home/shubham/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.17.jar -> lastModified(1486740496000)
+/home/shubham/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1501205457000)
+class names:
+3 items
+/home/shubham/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.17.jar -> akka.actor.Actor
+/home/shubham/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Serializable
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+3 items
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw86RwbwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAoc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw6GCvv3QABm5vdGlmeXNxAH4ADALEDgB0AAR3YWl0c3EAfgAMbz4CeXQADSRhc0luc3RhbmNlT2ZzcQB+AAyq1eEsdAAGc3lzdGVtc3EAfgAMUFcPdXQADHByb2R1Y3RBcml0eXNxAH4ADPO4Ke10AAZlcXVhbHNzcQB+AAwJHtAidAAMYXNJbnN0YW5jZU9mc3EAfgAMPgrhQ3QADmV4ZWN1dGlvblN0YXJ0c3EAfgAMohaZ2nQACVByb2Nlc3NlZHNxAH4ADHUuscp0AAZyZXN1bHRzcQB+AAyEWYszdAAMc3luY2hyb25pemVkc3EAfgAM+KbAXXQADSRpc0luc3RhbmNlT2ZzcQB+AAx2E/ApdAADcmVmc3EAfgAM2mOa13QACGNhbkVxdWFsc3EAfgAMfTss23QABG1haW5zcQB+AAzNOGhMdAANcHJvZHVjdFByZWZpeHNxAH4ADBZYLI10AAlub3RpZnlBbGxzcQB+AAw/wYEjdAAMaXNJbnN0YW5jZU9mc3EAfgAMkcBWGnQABjxpbml0PnNxAH4ADKOuqqB0AAI9PXNxAH4ADOxg45Z0AAxGaWxlSGFuZGxpbmdzcQB+AAx5z6b+dAAFY2xvbmVzcQB+AAzlCTOhdAAGJGluaXQkc3EAfgAMFEWahnQABGNvcHlzcQB+AAwauIzfdAAFd29yZHNzcQB+AAxZ9K1xdAAHbWVzc2FnZXNxAH4ADKV0s0d0AAh0b1N0cmluZ3NxAH4ADOMpakF0AAtQcmludFJlc3VsdHNxAH4ADEFQ8MJ0AARhcmdzc3EAfgAMSaq48HQAAiE9c3EAfgAMAtvGWHQACGdldENsYXNzc3EAfgAMv5HOYHQADmNvcHkkZGVmYXVsdCQxc3EAfgAMxu+Zj3QAAm5lc3EAfgAM7Lq9snQAAmVxc3EAfgAMiUJfU3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADLlBYkp0AAtkZWxheWVkSW5pdHNxAH4ADAYSgZt0AAIjI3NxAH4ADM5rH+90AAhmaW5hbGl6ZXNxAH4ADOvV2sJ0AA5wcm9kdWN0RWxlbWVudHNxAH4ADFvQL150AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAARzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABBXb3JkQ291bnQucmVzdWx0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AH9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AZ0wACWluaGVyaXRlZHEAfgBnTAAHcGFyZW50c3EAfgBneHEAfgCEc3EAfgB/dXEAfgBiAAAAAHNxAH4Af3VxAH4AYgAAAABzcQB+AH91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIN0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AINzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJ1zcQB+AJBxAH4Ak3NxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJx0AARqYXZhc3EAfgCcdAACaW9xAH4AoXNxAH4AkHQAB1Byb2R1Y3RxAH4AlnNxAH4AkHQABkVxdWFsc3EAfgCWc3EAfgCQdAAGT2JqZWN0c3EAfgCUc3EAfgCXdXEAfgCaAAAAA3NxAH4AnHEAfgCnc3EAfgCcdAAEbGFuZ3EAfgChc3EAfgCQdAADQW55cQB+AJZzcQB+AGRxAH4AcXVxAH4AcgAAAABzcQB+AHQAdAATV29yZENvdW50LlByb2Nlc3NlZHVxAH4AdwAAAABxAH4Ae3VxAH4AfQAAAABzcQB+AH9xAH4AhXNxAH4Af3NxAH4Ah3NxAH4Af3VxAH4AYgAAAABzcQB+AH91cQB+AGIAAAAAc3EAfgB/dXEAfgCOAAAABnNxAH4AkHEAfgCTc3EAfgCUc3EAfgCXdXEAfgCaAAAAAnNxAH4AnHEAfgCfcQB+AKFzcQB+AJBxAH4Ak3NxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJxxAH4Ap3NxAH4AnHQAAmlvcQB+AKFzcQB+AJBxAH4Aq3EAfgDIc3EAfgCQdAAGRXF1YWxzcQB+AMhzcQB+AJBxAH4Ar3NxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJxxAH4Ap3NxAH4AnHEAfgC1cQB+AKFzcQB+AJBxAH4At3EAfgDIc3EAfgBkcQB+AHF1cQB+AHIAAAAAc3EAfgB0AHQAFVdvcmRDb3VudC5QcmludFJlc3VsdHVxAH4AdwAAAABxAH4Ae3VxAH4AfQAAAABzcQB+AH9xAH4AhXNxAH4Af3NxAH4Ah3NxAH4Af3VxAH4AYgAAAABzcQB+AH91cQB+AGIAAAAAc3EAfgB/dXEAfgCOAAAABnNxAH4AkHEAfgCTc3EAfgCUc3EAfgCXdXEAfgCaAAAAAnNxAH4AnHEAfgCfcQB+AKFzcQB+AJBxAH4Ak3NxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJxxAH4Ap3NxAH4AnHQAAmlvcQB+AKFzcQB+AJBxAH4Aq3EAfgDtc3EAfgCQdAAGRXF1YWxzcQB+AO1zcQB+AJBxAH4Ar3NxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJxxAH4Ap3NxAH4AnHEAfgC1cQB+AKFzcQB+AJBxAH4At3EAfgDtc3EAfgBkcQB+AHF1cQB+AHIAAAAAc3EAfgB0AHQAFldvcmRDb3VudC5GaWxlSGFuZGxpbmd1cQB+AHcAAAAAfnEAfgB5dAAGTW9kdWxldXEAfgB9AAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNxAH4Af3EAfgCFc3EAfgB/c3EAfgCHc3EAfgB/dXEAfgBiAAAAAHNxAH4Af3VxAH4AYgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AaHEAfgBxdXEAfgByAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4BFHhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcQB+AJB0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4AlHNxAH4Al3VxAH4AmgAAAAJzcQB+AJxxAH4An3EAfgChc3EAfgB0AHEAfgArdXEAfgB3AAAAAHNxAH4AkHQABFVuaXRxAH4BI3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+ARR4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AHp0AAVQbGFpbnEAfgBHc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCRWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCDc3EAfgCQdAAFQXJyYXlxAH4BI3VxAH4AjgAAAAFzcQB+AJB0AAZTdHJpbmdzcQB+AJRzcQB+AJd1cQB+AJoAAAADc3EAfgCccQB+AKdzcQB+AJxxAH4AtXEAfgChc3EAfgB/dXEAfgCOAAAABHNxAH4AkHQAA0FwcHEAfgEjc3EAfgCQdAALRGVsYXllZEluaXRxAH4BI3NxAH4AkHEAfgCvcQB+AUBzcQB+AJBxAH4At3EAfgEjdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAJV29yZENvdW50c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFdo+bnlHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEAvaG9tZS9zaHViaGFtL1ZpZGVvcy9Ba2thLUZpcnN0LW1hc3Rlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU77Sxxf6YopdQZdYdXFLTSEwQ9rk=
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwJuCrkQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDicd5edAAEc2VsZnNxAH4AC5USIVV0AAdjb250ZXh0dXEAfgAJAAAAJXNxAH4AC/pTkdp0AAZub3RpZnlzcQB+AAsKrtEAdAAHUmVjZWl2ZXNxAH4AC2sBiRJ0AAR3YWl0c3EAfgAL5H4obXQADSRhc0luc3RhbmNlT2ZzcQB+AAsJf4TsdAAKdG90YWxXb3Jkc3NxAH4ACwbYAgZ0AAZlcXVhbHNzcQB+AAtPBPQUdAAMYXNJbnN0YW5jZU9mc3EAfgALXvwZYHQADHN5bmNocm9uaXplZHNxAH4AC6ZHzGV0AA0kaXNJbnN0YW5jZU9mc3EAfgALRLSWYXQAB3JlY2VpdmVzcQB+AAsqyO4JdAAKcHJlUmVzdGFydHNxAH4ACy5fVSR0AA1hcm91bmRSZWNlaXZlc3EAfgALsGcLe3QAC3Bvc3RSZXN0YXJ0c3EAfgALR22DknQACHBvc3RTdG9wc3EAfgALNRrRBXQACW5vdGlmeUFsbHNxAH4AC1N5XZ10ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC0kMoZF0AAxpc0luc3RhbmNlT2ZzcQB+AAtXqYiwdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4ACwT6tI50AA5hcm91bmRQb3N0U3RvcHNxAH4AC/Fbj350AAY8aW5pdD5zcQB+AAtiBIk0dAAIcHJlU3RhcnRzcQB+AAu+sfUhdAAJdW5oYW5kbGVkc3EAfgALeiL8n3QAAj09c3EAfgALX9cglHQABWNsb25lc3EAfgALrM+0QHQAC0xpbmVQcm9jZXNzc3EAfgALCjjYW3QABiRpbml0JHNxAH4AC3Og0UF0AAZzZW5kZXJzcQB+AAuIPCgZdAAIdG9TdHJpbmdzcQB+AAtWE9hfdAACIT1zcQB+AAuQo/SSdAAIZ2V0Q2xhc3NzcQB+AAvUtOdQdAACbmVzcQB+AAsYeaIWdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALTaS693QAAmVxc3EAfgALhoVDRHQAAiMjc3EAfgALIICJ8HQACGZpbmFsaXplc3EAfgAL7KBb/nQACGhhc2hDb2Rlc3EAfgALntiwHnQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AZXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAFVdvcmRDb3VudC5MaW5lUHJvY2Vzc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB9c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGVMAAlpbmhlcml0ZWRxAH4AZUwAB3BhcmVudHNxAH4AZXhxAH4AgnNxAH4AfXVxAH4AYAAAAABzcQB+AH11cQB+AGAAAAAAc3EAfgB9dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCBdAAFQWN0b3JzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AJp0AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCbc3EAfgCOdAAGT2JqZWN0c3EAfgCSc3EAfgCVdXEAfgCYAAAAA3NxAH4AmnQABGphdmFzcQB+AJp0AARsYW5ncQB+AKFzcQB+AI50AANBbnlzcQB+AJJzcQB+AJV1cQB+AJgAAAACc3EAfgCadAAFc2NhbGFxAH4AoXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQACVdvcmRDb3VudHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXaPm55R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABAL2hvbWUvc2h1YmhhbS9WaWRlb3MvQWtrYS1GaXJzdC1tYXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLBZFOYhUepnOmphCpzCWSxfagEo
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwqtohJQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHB9T0hLdAAEc2VsZnNxAH4ACzSEC9V0AAdjb250ZXh0dXEAfgAJAAAAJHNxAH4AC87M1Xx0AAZub3RpZnlzcQB+AAvxqSSwdAAHUmVjZWl2ZXNxAH4AC1Ll4NJ0AAR3YWl0c3EAfgALAH+tdnQADSRhc0luc3RhbmNlT2ZzcQB+AAvE4juZdAAGZXF1YWxzc3EAfgALqU+xwXQADGFzSW5zdGFuY2VPZnNxAH4AC3DpesF0AAxzeW5jaHJvbml6ZWRzcQB+AAtyUX4QdAANJGlzSW5zdGFuY2VPZnNxAH4AC7OXaJZ0AAdyZWNlaXZlc3EAfgALAvgRT3QACnByZVJlc3RhcnRzcQB+AAuwNOmSdAANYXJvdW5kUmVjZWl2ZXNxAH4AC/n7Fdd0AAtwb3N0UmVzdGFydHNxAH4AC7VHEnN0AAhwb3N0U3RvcHNxAH4ACzuPr510AAlXb3JkQ291bnRzcQB+AAsLPQG+dAAJbm90aWZ5QWxsc3EAfgALUfd/5nQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALN65O03QADGlzSW5zdGFuY2VPZnNxAH4AC/np5Y50ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALlPOfrnQADmFyb3VuZFBvc3RTdG9wc3EAfgALiHbo7nQABjxpbml0PnNxAH4AC5/tgG10AAhwcmVTdGFydHNxAH4AC/Weqgp0AAl1bmhhbmRsZWRzcQB+AAuyxiFedAACPT1zcQB+AAshwxXYdAAFY2xvbmVzcQB+AAt9ptr1dAAGJGluaXQkc3EAfgALQZe7VXQABnNlbmRlcnNxAH4AC3tvr9F0AAh0b1N0cmluZ3NxAH4ACyV8T/t0AAIhPXNxAH4AC6XDi4x0AAhnZXRDbGFzc3NxAH4ACwuYgWB0AAJuZXNxAH4ACxAlMRJ0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAuFQrI9dAACZXFzcQB+AAt8MwfmdAACIyNzcQB+AAuzUwcZdAAIZmluYWxpemVzcQB+AAsVrbQ/dAAIaGFzaENvZGVzcQB+AAv0uFLMdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBjeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAATV29yZENvdW50LldvcmRDb3VudHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB7c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGNMAAlpbmhlcml0ZWRxAH4AY0wAB3BhcmVudHNxAH4AY3hxAH4AgHNxAH4Ae3VxAH4AXgAAAABzcQB+AHt1cQB+AF4AAAAAc3EAfgB7dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB/dAAFQWN0b3JzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AH9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AJh0AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCZc3EAfgCMdAAGT2JqZWN0c3EAfgCQc3EAfgCTdXEAfgCWAAAAA3NxAH4AmHQABGphdmFzcQB+AJh0AARsYW5ncQB+AJ9zcQB+AIx0AANBbnlzcQB+AJBzcQB+AJN1cQB+AJYAAAACc3EAfgCYdAAFc2NhbGFxAH4An3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQACVdvcmRDb3VudHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXaPm55R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABAL2hvbWUvc2h1YmhhbS9WaWRlb3MvQWtrYS1GaXJzdC1tYXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOK6iubp8TO8Stx45T+O4XQKS+Hs
+external apis:
+0 items
+source infos:
+3 items
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/FileHandling.scala -> 
+AAAAAAAAAAA=
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/LineProcess.scala -> 
+AAAAAAAAAAA=
+/home/shubham/Videos/Akka-First-master/src/main/scala/WordCount/WordCount.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXaPjvOp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL3NodWJoYW0vVmlkZW9zL0Fra2EtRmlyc3QtbWFzdGVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXaPm55R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL3NodWJoYW0vVmlkZW9zL0Fra2EtRmlyc3QtbWFzdGVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
